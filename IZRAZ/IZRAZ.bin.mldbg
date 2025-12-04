@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DebugInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Symbols>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>1</Line>
+      </Location>
+      <Name>a</Name>
+      <Value>1</Value>
+      <IsExecutable>false</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>2</Line>
+      </Location>
+      <Name>b</Name>
+      <Value>2</Value>
+      <IsExecutable>false</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>3</Line>
+      </Location>
+      <Name>c</Name>
+      <Value>3</Value>
+      <IsExecutable>false</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>4</Line>
+      </Location>
+      <Name>x</Name>
+      <Value>4</Value>
+      <IsExecutable>false</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>8</Line>
+      </Location>
+      <Name />
+      <Value>8</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>9</Line>
+      </Location>
+      <Name />
+      <Value>9</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>10</Line>
+      </Location>
+      <Name />
+      <Value>10</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>11</Line>
+      </Location>
+      <Name />
+      <Value>11</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>12</Line>
+      </Location>
+      <Name />
+      <Value>12</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>13</Line>
+      </Location>
+      <Name />
+      <Value>13</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>15</Line>
+      </Location>
+      <Name />
+      <Value>14</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+    <DebugSymbol>
+      <Location>
+        <File>Main.pca</File>
+        <Line>17</Line>
+      </Location>
+      <Name />
+      <Value>15</Value>
+      <IsExecutable>true</IsExecutable>
+    </DebugSymbol>
+  </Symbols>
+</DebugInformation>

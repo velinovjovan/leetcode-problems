@@ -1,0 +1,12 @@
+                  a = 1
+                  b = 2
+                  c = 3
+                  x = 4
+    8: 7102       IN a, 2
+    9: 3311       MUL c, a, a
+   10: 3412       MUL x, a, b
+   11: 1334       ADD c, c, x
+   12: 3422       MUL x, b, b
+   13: 1334       ADD c, c, x
+   14: 8301       OUT c, 1
+   15: F000       STOP 
