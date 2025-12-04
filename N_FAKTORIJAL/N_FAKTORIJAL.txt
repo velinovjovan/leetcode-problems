@@ -1,0 +1,17 @@
+                  n = 1
+                  fact = 2
+                  error = 14
+                  calc_fact = 15
+                  loop = 19
+                  back = 24
+    8: 7101       IN n
+    9: 6018 000E  BGT 0, n, error
+   11: D000 000F  JSR calc_fact
+   13: 8201       OUT fact
+   14: F000       error: STOP 
+   15: 0208 0001  calc_fact: MOV fact, 1
+   17: 5108 0018  BEQ n, 0, back
+   19: 3221       loop: MUL fact, fact, n
+   20: A110 0001  SUB n, n, 1
+   22: 6108 0013  BGT n, 0, loop
+   24: E000       back: RTS 
