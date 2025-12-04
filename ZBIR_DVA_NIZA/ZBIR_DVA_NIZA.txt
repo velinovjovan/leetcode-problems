@@ -1,0 +1,27 @@
+                  adra = 1
+                  adrb = 2
+                  adrc = 3
+                  n = 4
+                  i = 5
+                  a = 100
+                  b = 200
+                  c = 300
+                  loop = 19
+                  kraj = 32
+    8: 7401       IN n
+    9: 0108 0064  MOV adra, #a
+   11: 0208 00C8  MOV adrb, #b
+   13: 0308 012C  MOV adrc, #c
+   15: 7984       IN (adra), n
+   16: 7A84       IN (adrb), n
+   17: 0508 0000  MOV i, 0
+   19: 5458 0020  loop: BEQ n, i, kraj
+   21: 1B9A       ADD (adrc), (adra), (adrb)
+   22: 9110 0001  ADD adra, adra, 1
+   24: 9220 0001  ADD adrb, adrb, 1
+   26: 9330 0001  ADD adrc, adrc, 1
+   28: 9550 0001  ADD i, i, 1
+   30: 5558 0013  BEQ i, i, loop
+   32: 0308 012C  kraj: MOV adrc, #c
+   34: 8B84       OUT (adrc), n
+   35: F000       STOP 
