@@ -1,1 +1,1 @@
-# Kolekcija Zadataka za Piko Kompjuter (ETF)
+# Kolekcija Zadataka za PicoComputer (ETF)
