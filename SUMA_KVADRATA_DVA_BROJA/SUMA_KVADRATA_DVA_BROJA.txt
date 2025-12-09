@@ -1,0 +1,8 @@
+                  a = 1
+                  b = 2
+    8: 7102       IN a, 2
+    9: 3222       MUL b, b, b
+   10: 3111       MUL a, a, a
+   11: 1112       ADD a, a, b
+   12: 8101       OUT a
+   13: F000       STOP 

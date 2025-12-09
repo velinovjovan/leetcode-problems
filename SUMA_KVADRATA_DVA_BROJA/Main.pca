@@ -1,0 +1,13 @@
+﻿		a = 1
+		b = 2
+		
+		ORG 8
+		
+		IN a, 2
+		mul b, b, b
+		mul a, a, a
+		
+		add a, a, b
+		
+		OUT a
+		STOP
