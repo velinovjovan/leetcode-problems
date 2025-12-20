@@ -1,7 +1,0 @@
-                  a = 1
-                  b = 2
-                  vece = 12
-    8: 7102       IN a, 2
-    9: 6218 000C  BGT b, a, vece
-   11: F120       STOP a, b
-   12: F210       vece: STOP b, a
