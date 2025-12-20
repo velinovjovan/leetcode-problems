@@ -6,7 +6,6 @@ A collection of my solutions to various LeetCode programming problems. Each solu
 
 ## 📈 Goals
 
-- Solve at least 200 problems by the end of the year.
 - Solve a total of 1000 problems.
 - Strengthen mastery of data structures and algorithms.
 
